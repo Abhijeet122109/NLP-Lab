@@ -23,7 +23,12 @@ for item in g_tfidf[g_bow]:
 
 
 #OUTPUT::
-# Dictionary : 
-# [['atharva', 1], ['ghodekar', 1], ['is', 1], ['my', 1], ['name', 1]]
-# [['am', 1], ['college', 1], ['engineering', 1], ['from', 1], ['of', 1], ['sanjivani', 1]]
-# [['atharva', 1], ['is', 1], ['from', 1], ['ahmednagar', 1]]
+Dictionary: [['be', 11, 'better', 1], ['but", 1], ['can', 11, l'excellent', 1], ["food", 1], ['is', 1], ["service", 1], ['the', 211 [['Food", 1], ['is', 1], ['service, 1], ["the", 2], ['always', 1], ["and", 1], ['delicious, 1], ["loved", 1]] II food", 1], I service, 1], ["the", 2], ['and', 1], I'mediocre, 1], ["terrible', 1], ['was, 211
+
+1F-10 Vectori
+
+I'be', 0.44], ['better', 8.44], ["but, 0.44], ["can, 8.44], ['excellent, 8.44], 'is', 0.16]]
+
+[['is', 0.2], ['always', 0.55], and, .2], ['delicious, 9.55], ['loved, 0.5511
+
+[['and', 8.15], ['mediocre', 0.4], ['terrible', 8.4], ["was, 0.81]]
